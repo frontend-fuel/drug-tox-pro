@@ -6,6 +6,5 @@ matplotlib
 py3Dmol
 plotly
 rdkit
-rdkit.Chem
 Pillow
 numpy
