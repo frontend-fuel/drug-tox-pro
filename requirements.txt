@@ -6,5 +6,4 @@ matplotlib
 py3Dmol
 plotly
 rdkit
-Pillow
-numpy
+
